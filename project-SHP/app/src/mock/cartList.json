@@ -1,0 +1,35 @@
+[
+  {
+      "id": 61,
+      "userId": "2",
+      "skuId": 4,
+      "cartPrice": 6999,
+      "skuNum": 4,
+      "imgUrl": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAcbl2AAFopp2WGBQ404.jpg",
+      "skuName": "Apple iPhone 11 (A2223) ",
+      "isChecked": 1,
+      "skuPrice": 5999
+  },
+  {
+      "id": 62,
+      "userId": "2",
+      "skuId": 2,
+      "cartPrice": 5499,
+      "skuNum": 1,
+      "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWASR1YAADsOUYB-2g312.jpg",
+      "skuName": "Apple iPhone 11 (A2223) 64GB 红色",
+      "isChecked": 0,
+      "skuPrice": 5499
+  },
+  {
+    "id": 63,
+    "userId": "2",
+    "skuId": 3,
+    "cartPrice": 2424,
+    "skuNum": 1,
+    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAIZosAACYibCV0ks310.jpg",
+    "skuName": "Apple iPhone 11 (A2223) 64GB 红色",
+    "isChecked": 0,
+    "skuPrice": 5499
+  }
+]
